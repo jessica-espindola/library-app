@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Livraria Cultura",
+        "latitude": -8.063149,
+        "longitude": -34.872788
+    },
+    {
+        "id": 2,
+        "name": "Livraria Jaqueira",
+        "latitude": -8.040896,
+        "longitude": -34.897228
+    },
+    {
+        "id": 3,
+        "name": "Livraria Imperatriz",
+        "latitude": -8.176157,
+        "longitude": -34.923073
+    },
+    {
+        "id": 4,
+        "name": "Livraria Praça de Casa Forte",
+        "latitude": -8.030125,
+        "longitude": -34.915947
+    },
+    {
+        "id": 5,
+        "name": "Livraria Leitura - Shopping Recife",
+        "latitude": -8.118191,
+        "longitude": -34.897097
+    },
+    {
+        "id": 6,
+        "name": "Livraria SBS Recife",
+        "latitude": -8.052562,
+        "longitude": -34.892021
+    },
+    {
+        "id": 7,
+        "name": "Livraria Saraiva",
+        "latitude": -8.063471,
+        "longitude": -34.872680
+    },
+    {
+        "id": 8,
+        "name": "Livraria Varejão do Estudante",
+        "latitude": -8.052295,
+        "longitude": -34.889984
+    },
+    {
+        "id": 9,
+        "name": "Livraria Fátima",
+        "latitude": -8.061867,
+        "longitude": -34.879334
+    },
+    {
+        "id": 10,
+        "name": "Livraria do Estudante",
+        "latitude": -8.053115,
+        "longitude": -34.880457
+    }
+]
